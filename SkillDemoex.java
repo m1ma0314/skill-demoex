@@ -1,1 +1,5 @@
-public class SkillDemoex{} //would edit code in Github Desktop
+public class SkillDemoex{
+    public static int multiply(int a, int b){
+        return a * b;
+    }
+}
